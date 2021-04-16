@@ -21,11 +21,11 @@ namespace _2_criandoVariavel
             idade = (10 + 5) * 2;
             if (idade >= 40)
             {
-                Console.WriteLine("sua dade é " + idade + " tá velho");
+                Console.WriteLine("sua idade é " + idade + " já avançou metade da média do tempo de vida");
             }
             else
             {
-                Console.WriteLine("tá novin novin");
+                Console.WriteLine("sua idade é " + idade + " não avançou metade da média do tempo de vida");
             }
             Console.WriteLine("Execução finalizada, tecle enter para continuar.");
             Console.ReadLine();

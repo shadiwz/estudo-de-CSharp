@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante.csproj",
       "projectName": "3- CriandoVariavelPontoFlutuante",
-      "projectPath": "C:\\Users\\PICHAU\\source\\repos\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante.csproj",
+      "projectPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\source\\repos\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\obj\\",
+      "outputPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\3- CriandoVariavelPontoFlutuante\\3- CriandoVariavelPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
