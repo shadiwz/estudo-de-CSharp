@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\source\\repos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj": {}
+    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\source\\repos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj": {
+    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj",
         "projectName": "4- ConversoesETiposNumericos",
-        "projectPath": "C:\\Users\\PICHAU\\source\\repos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj",
+        "projectPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\source\\repos\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\4- ConversoesETiposNumericos\\4- ConversoesETiposNumericos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
