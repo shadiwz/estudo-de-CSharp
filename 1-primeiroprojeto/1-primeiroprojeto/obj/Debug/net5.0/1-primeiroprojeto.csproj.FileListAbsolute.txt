@@ -1,0 +1,16 @@
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.exe
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.deps.json
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.runtimeconfig.json
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.dll
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\ref\1-primeiroprojeto.dll
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\bin\Debug\net5.0\1-primeiroprojeto.pdb
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.dll
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\ref\1-primeiroprojeto.dll
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.pdb
+C:\Users\PICHAU\source\repos\1-primeiroprojeto\1-primeiroprojeto\obj\Debug\net5.0\1-primeiroprojeto.genruntimeconfig.cache

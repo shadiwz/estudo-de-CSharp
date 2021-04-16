@@ -1,0 +1,48 @@
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.exe
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.deps.json
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.json
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\repos\aprendendo CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.genruntimeconfig.cache
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.exe
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.deps.json
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.json
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\repos\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.genruntimeconfig.cache
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.exe
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.deps.json
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.json
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.runtimeconfig.dev.json
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\bin\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.AssemblyInfo.cs
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.dll
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\ref\2-criandoVariavel.dll
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.pdb
+C:\Users\PICHAU\source\estudo-de-CSharp\2-criandoVariavel\2-criandoVariavel\obj\Debug\net5.0\2-criandoVariavel.genruntimeconfig.cache
