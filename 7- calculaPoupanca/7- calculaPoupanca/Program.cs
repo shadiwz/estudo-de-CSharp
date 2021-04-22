@@ -10,13 +10,15 @@ namespace _7__calculaPoupanca
 
             double ValorInvestido = 1000;
 
-            
-            for(int ContadorMes = 1; ContadorMes <= 12; ContadorMes += 1)
+
+            for (int ContadorMes = 1; ContadorMes <= 12; ContadorMes += 1)
             {
                 ValorInvestido = ValorInvestido + ValorInvestido * 0.0036;
+
+                Console.WriteLine("Apos " + ContadorMes + " meses você terá:  " + ValorInvestido);
             }
 
-            Console.WriteLine("Apos 12 meses você terá:  " + ValorInvestido);
+
 
             Console.WriteLine("Execução finalizada, tecle enter para continuar");
             Console.ReadLine();

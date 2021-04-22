@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7- calculaPoupanca", "7- calculaPoupanca\7- calculaPoupanca.csproj", "{687C4208-099E-43B1-AF12-4FEACAA39A71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7- CalculaPoupanca", "7- CalculaPoupanca\7- CalculaPoupanca.csproj", "{D8112AE1-8418-4E0A-B221-AAC74332C900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{687C4208-099E-43B1-AF12-4FEACAA39A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{687C4208-099E-43B1-AF12-4FEACAA39A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{687C4208-099E-43B1-AF12-4FEACAA39A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{687C4208-099E-43B1-AF12-4FEACAA39A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8112AE1-8418-4E0A-B221-AAC74332C900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8112AE1-8418-4E0A-B221-AAC74332C900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8112AE1-8418-4E0A-B221-AAC74332C900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8112AE1-8418-4E0A-B221-AAC74332C900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E5BFC42C-F9A2-4351-AA33-A29DF12509E0}
+		SolutionGuid = {D6D2E200-5A10-4ECA-9FB7-D87204A1DFAC}
 	EndGlobalSection
 EndGlobal

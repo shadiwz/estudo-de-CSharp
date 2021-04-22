@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- calculaPoupanca\\7- calculaPoupanca\\7- calculaPoupanca.csproj": {}
+    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- CalculaPoupanca\\7- CalculaPoupanca\\7- CalculaPoupanca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- calculaPoupanca\\7- calculaPoupanca\\7- calculaPoupanca.csproj": {
+    "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- CalculaPoupanca\\7- CalculaPoupanca\\7- CalculaPoupanca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- calculaPoupanca\\7- calculaPoupanca\\7- calculaPoupanca.csproj",
-        "projectName": "7- calculaPoupanca",
-        "projectPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- calculaPoupanca\\7- calculaPoupanca\\7- calculaPoupanca.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- CalculaPoupanca\\7- CalculaPoupanca\\7- CalculaPoupanca.csproj",
+        "projectName": "7- CalculaPoupanca",
+        "projectPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- CalculaPoupanca\\7- CalculaPoupanca\\7- CalculaPoupanca.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- calculaPoupanca\\7- calculaPoupanca\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\source\\estudo-de-CSharp\\7- CalculaPoupanca\\7- CalculaPoupanca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
